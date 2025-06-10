@@ -1,0 +1,10 @@
+m=Masa
+F=Si³a
+t=Czas
+W=Praca
+P=Moc
+s=Wektor ruchu
+v=Prêdkoœæ
+a=Przyspieszenie
+S=Droga
+E=Energia (dowolny rodzaj energii)

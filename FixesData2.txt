@@ -1,0 +1,79 @@
+# FIXES DATA vERSION 0.0.3
+# First attempt to enter all the fixes
+
+# by Adam Mrozek 2008
+
+# Acceleration
+a=F/m
+F=a*m
+m=F/a
+
+#Final Speed
+v=a*t
+t=v/a
+a=v/t
+
+#Road
+#Huuh... This will be the longest one...
+#OK. Let's do it.
+
+S=1/2*a*t^2
+
+a=2S/t^2
+t^2=2S/a
+
+#And vo*t +/- I will leave...
+
+#Acceleration is Speed div Time
+#This one repeats, so I removed it
+#a=v/t
+#v=a*t
+#t=v/a
+
+#Speed is Road div. by Time
+v=S/t
+S=v*t
+t=S/v
+
+#Work
+W=F*s
+s=W/F
+F=W/s
+#Little s is The Move vector
+
+#Power
+P=W/t
+W=P*t
+t=W/P
+
+#Thanks to Dr. Mrozek :)
+#Energia kinetyczna
+E=1/2mv^2
+m=2E/v^2
+v^2=2E/m
+
+#Gêstoœæ (1 sza klasa, dzêki zamianie V na v, mo¿emy liczyæ objêtoœæ)
+d=m/V
+m=d*V
+V=m/d
+
+[ Odt¹d nie wiem, czy bêdzie dzia³a³o i czy nie spowoduje zbyt du¿ych zapêtleñ ]
+
+#Energia - inne rodzaje
+#Energia grawitacji
+E=mgh
+m=E/gh
+g=E/mh
+h=E/mg
+
+#No i oczywiœcie F=m*g
+F=m*g
+m=F/g
+g=F/m
+
+#Niuch... Czujê d³uugie zapêtlenia...
+
+#Teraz ten wzór na energiê sprê¿ystoœci
+E=1/2Kx^2
+K=2E/x^2
+x^2=2E/K

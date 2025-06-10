@@ -1,0 +1,23 @@
+Witaj!
+
+Dziêki za zainstalowanie programu Ryzyk Fizyk!
+
+Jeœli ten program spodoba³ Ci siê, wyœlij mi, proszê, maila :-)
+
+Krótka instrukcja obs³ugi:
+
+Najpierw otwórz program, klikaj¹c na Start -> Programy -> Ryzyk Fizyk -> Ryzyk Fizyk.
+Nastêpnie kliknij dwukrotnie, tak jak klikasz na ka¿d¹ ikonê, na wszystkie dane, jakie tylko znasz w zadaniu z Fizyki.
+Na przyk³ad, jeœli w zadaniu jest napisane:
+
+"...cia³o porusza siê z prêdkoœci¹..."
+
+Jako dan¹ klikniesz Prêdkoœæ.
+
+Na koniec wystarczy wybraæ wartoœæ, której szukasz (czyli "szukan¹") i klikn¹æ na "Policz".
+Program postara siê wypisaæwszystkie wzory, jakie mog¹ siê przydaæ do rozwi¹zania tego zadania.
+
+Dziêki za uwagê.
+Jeœli znajdziesz jakieœ b³êdy w programie, b³êdy ortograficzne, albo tym bardziej merytoryczne, pisz na mój E-mail:
+
+mrozekss@gmail.com

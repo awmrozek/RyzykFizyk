@@ -1,0 +1,41 @@
+# FIXES DATA VERSION 0.0.1
+# First attempt to enter all the fixes
+
+# by Adam Mrozek 2008
+
+# Acceleration
+a=F/m
+F=a*m
+m=F/a
+
+#Final Speed
+V=a*t
+t=V/a
+a=V/t
+
+#Road
+#Huuh... This will be the longest one...
+#OK. Let's do it.
+S=1/2*a*t^2
+
+a=2S/t^2
+t^2=2S/a
+
+#And Vo*t +/- I will leave...
+
+#Acceleration is Speed div Time
+#This one repeats, so I removed it
+#a=V/t
+#V=a*t
+#t=V/a
+
+#Speed is Road div. by Time
+V=S/t
+S=V*t
+t=S/V
+
+#Work
+W=F*s
+s=W/F
+F=W/s
+#Little s is The Move Vector

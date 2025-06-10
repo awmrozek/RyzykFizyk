@@ -1,0 +1,21 @@
+[ Wersja 3-cia ]
+t=Czas
+S=Droga
+E=Energia (dowolny rodzaj energii)
+d=Gêstoœæ
+m=Masa
+P=Moc
+V=Objêtoœæ
+W=Praca
+v=Prêdkoœæ
+a=Przyspieszenie
+F=Si³a
+s=Wektor ruchu
+[ A teraz ju¿ obs³ugujemy komentarze! 28 marca 2008 ]
+[ Pora wprowadziæ coœ, co siê przyda w Energii ]
+#K=Iloœæ Newtonów na metr
+#x=Wielkoœæ rozci¹gniêcia (d³ugoœæ)
+#h=Wysokoœæ (np. cia³a nad Ziemi¹)
+#g=Przyspieszenie Ziemskie
+[ Za du¿e zapêtlanie. Nie pozwalam na to, chyba ¿e wprowadzimy ]
+[ multithreading. ]

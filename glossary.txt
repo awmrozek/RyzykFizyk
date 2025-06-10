@@ -1,0 +1,22 @@
+#!3
+t=Czas
+S=Droga
+E=Energia (dowolny rodzaj energii)
+d=Gêstoœæ
+m=Masa
+P=Moc
+V=Objêtoœæ
+W=Praca
+v=Prêdkoœæ
+a=Przyspieszenie
+F=Si³a
+s=Wektor ruchu
+K=Rozci¹gliwoœæ sprê¿yny
+x=D³ugoœæ rozci¹gniêcia
+h=Wysokoœæ (h)
+g=Przyspieszenie Ziemskie (g)
+U=Voltage
+I=Current
+C=Capacitance
+Q=Charge
+R=resistance
