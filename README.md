@@ -18,4 +18,14 @@ This software is a comprehensive tool for various educational and practical appl
 * Advanced calculation: Offers multiple calculation paths based on input information
 * Educational components: Contextual explanations about how each formula is derived, enhancing user comprehension
 
-![Main screen](sol.PNG)
+# How to
+
+Installation is quite standard. Run the installer (EXE) and click Next a couple of times.
+
+You can run the app from Start menu. When the app is running you should be able to enter variables and constants from your assignment using the main form of the application:
+
+![Main screen screenshot](fizykEnterData.png)
+
+When you are ready, click Next to ask the software to produce a solution for you. When the solution is ready, you should be able to see it on the last screen of the program.
+
+![Solution screenshot](fizykRozwiazanie.png)
